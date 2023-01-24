@@ -11,9 +11,7 @@
 <img alt="imagen" src="https://user-images.githubusercontent.com/94113076/214281997-61ef437e-1510-4fb0-9f21-6aa20a5471d5.png"> 
  </a>
 
-
-
-<img alt="imagen" align="right" src="https://user-images.githubusercontent.com/94113076/214277412-0637b24c-0246-4b11-bfcb-d0f175b8f01c.png"> 
+<img alt="imagen" align="right" border="2px solid white" border-radius="20px" src="https://user-images.githubusercontent.com/94113076/214291549-7dca8799-15b5-43d2-b9a8-5a0e750c3a21.png"> 
 
 Estoy terminando mis estudios como técnico superior en Desarrollo de Aplicaciones Multiplataforma.
 

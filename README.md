@@ -18,7 +18,7 @@ Tengo un proyecto musical desde el año 2010. Me ocupo de la gestión de las red
 En 2021 decidí darle un giro a mi vida para dedicarme a lo que realmente me pudiese entusiasmar, y para ello estoy estudiando Desarrollo de Aplicaciones Multiplataforma con el fin de introducirme en el sector de la programación y el desarrollo de software.
 
 <h4>🛠Stack Tecnológico y herramientas</h4>
- <img alt="java" width="80%" height="80%" src="https://user-images.githubusercontent.com/94113076/214289746-6e0df92f-7196-4961-9db7-70205043abbc.png">
+ <img alt="java" width="60%" height="60%" src="https://user-images.githubusercontent.com/94113076/214289746-6e0df92f-7196-4961-9db7-70205043abbc.png">
   </body>
 </html>
 

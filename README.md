@@ -22,7 +22,7 @@ Actualmente me encuentro trabajando en Deloitte como Release Manager y desarroll
   <li>Java, Apex, Javascript</li>
   <li>HTML & CSS</li>
   <li>SQL, SOQL</li>
-  <li>Visual Studio Code, IntelliJ, Eclipse, NetBeans, ANdroid Studio</li>
+  <li>Visual Studio Code, IntelliJ, Eclipse, NetBeans, Android Studio</li>
   <li>Salesforce</li>
 </ul>
   </body>

@@ -18,7 +18,14 @@ En 2021, tomé la decisión de redirigir mi carrera hacia un sector que siempre 
 Actualmente me encuentro trabajando en Deloitte como Release Manager y desarrollador de software en el CRM Salesforce.
 
 <h4>🛠Stack Tecnológico y herramientas</h4>
- <img alt="java" width="60%" height="60%" src="https://user-images.githubusercontent.com/94113076/214289746-6e0df92f-7196-4961-9db7-70205043abbc.png">
+* Java
+* HTML & CSS
+* SQL
+* Javascript
+* Visual Studio Code
+* Eclipse
+* Android Studio
+* IntelliJ
   </body>
 </html>
 
